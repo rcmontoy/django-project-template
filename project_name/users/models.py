@@ -2,4 +2,9 @@ from django.contrib.auth.models import AbstractUser
 
 
 class User(AbstractUser):
-    pass
+    """
+    Custom user model
+    """
+
+    class Meta:
+        db_table = 'users'
