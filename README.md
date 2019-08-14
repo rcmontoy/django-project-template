@@ -3,11 +3,12 @@
 Simple Django project template.
 
 ## Features
-* Django 2.2
 * Python 3.7
+* Django 2.2.4
+* Django Debug Toolbar
+* Django Rest Framework 3.10.2
 * Pipenv
 * Custom user model
-* Django debug toolbar
 
 ## Installation
 ```shell
