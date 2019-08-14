@@ -15,7 +15,7 @@ PROJECT_NAME=payment_service
 
 django-admin startproject \
   --extension py,md \
-  --template /Users/ryanmontoya/repos/django-project-template \
+  --template=https://github.com/rcmontoy/django-project-template/archive/master.zip \
   $PROJECT_NAME
 
 
