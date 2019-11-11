@@ -9,6 +9,7 @@ verify_ssl = true
 django = "==2.2.4"
 django-debug-toolbar = "==2.0"
 djangorestframework = "==3.10.2"
+psycopg2-binary = "==2.8.4"
 
 [requires]
 python_version = "3.7"
