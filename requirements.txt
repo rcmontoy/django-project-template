@@ -1,0 +1,4 @@
+django==2.2.10
+django-debug-toolbar==2.0
+djangorestframework==3.10.2
+psycopg2-binary==2.8.4
